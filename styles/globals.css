@@ -4,6 +4,9 @@
 
 
 @layer components {
+  .bt {
+    @apply bg-gray
+  }
   .link {
     @apply hover:underline cursor-pointer;
     }
